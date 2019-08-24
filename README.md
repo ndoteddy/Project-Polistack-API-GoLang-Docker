@@ -12,5 +12,4 @@ This directory contains:
 
 
 If you want to learn more kindly learn from Google Cloud as Well
-Sharing and Caring together will change the world.
 [Kubernetes Engine Quickstart](https://cloud.google.com/kubernetes-engine/docs/quickstart)
