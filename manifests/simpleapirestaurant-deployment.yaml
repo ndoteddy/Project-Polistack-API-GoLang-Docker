@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: simpleapirestaurant
+  labels:
+    app: sar
+spec:
+  selector:
+    matchLabels:
+      app: sar
+      tier: web
+  template:
+    metadata:
+      labels:
+        app: sar
+        tier: web
+    spec:
+      containers:
+      - name: simple-api-restaurant
+        image: gcr.io/my-project-aswell/simple-api-restaurant:1.0
+        ports:
+        - containerPort: 8080
