@@ -1,4 +1,4 @@
-module github.com/callicoder/go-docker
+module ndoteddy/Project-Polistack-API-GoLang-Docker
 
 require (
 	github.com/gorilla/context v1.1.1
