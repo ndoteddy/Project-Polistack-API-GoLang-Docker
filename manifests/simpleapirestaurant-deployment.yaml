@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: simple-api-restaurant
-        image: gcr.io/my-project-aswell/simple-api-restaurant:1.0
+        image: gcr.io/nandorestaurantgolang/simple-api-restaurant:1.0
         ports:
         - containerPort: 8080
