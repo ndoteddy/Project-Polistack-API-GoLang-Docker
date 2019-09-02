@@ -1,4 +1,4 @@
-FROM golang:1.8-alpine
+FROM golang:1.12.9-alpine3.10
 # Add Maintainer Info
 LABEL maintainer="nando teddy <nando.teddy@gmail.com>"
 
