@@ -3,7 +3,7 @@
 This repository is to show how to start your journey with
 Go-Lang + Docker + Google Cloud + Kubernetes
 
-Visit https://medium.com/@nando.teddy/how-to-start-your-journey-with-golang-google-cloud-and-kubernetes-need-hello-world-part-1-1b67d5f1adbc  to follow this  tutorial.
+Visit https://medium.com/scriptkiddiez/how-to-start-your-journey-with-golang-google-cloud-and-kubernetes-need-hello-world-part-1-4ca530d4d6ea  to follow this  tutorial.
 
 This directory contains:
 
